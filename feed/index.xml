@@ -8,16 +8,33 @@
 	>
 
 <channel>
-	<title>I Dont Get It</title>
+	<title>I Don&#039;t Get It</title>
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
-	<description>Sciencey comic</description>
-	<lastBuildDate>Fri, 15 Apr 2022 17:05:45 +0000</lastBuildDate>
+	<description>A sciencey comic by Kathy Shire</description>
+	<lastBuildDate>Fri, 15 Apr 2022 20:17:41 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.9.3</generator>
-</channel>
+	<item>
+		<title>Ligation</title>
+		<link>/ligation/</link>
+		
+		<dc:creator><![CDATA[wordpressadmin]]></dc:creator>
+		<pubDate>Fri, 15 Apr 2022 20:17:40 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=17</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img width="1200" height="1230" src="/wp-content/uploads/2022/04/Ligation.jpg" alt="" class="wp-image-18" srcset="/wp-content/uploads/2022/04/Ligation.jpg 1200w, /wp-content/uploads/2022/04/Ligation-768x787.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
 </rss>
