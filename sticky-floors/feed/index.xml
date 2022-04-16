@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Comments for I Don&#039;t Get It	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	Comments on: Sticky Floors	</title>
+	<atom:link href="/sticky-floors/feed/" rel="self" type="application/rss+xml" />
+	<link>/sticky-floors/</link>
 	<description>A sciencey comic by Kathy Shire</description>
-	<lastBuildDate>Sat, 16 Apr 2022 17:40:39 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 16 Apr 2022 17:40:17 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
