@@ -12,7 +12,7 @@
 	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>A sciencey comic by Kathy Shire</description>
-	<lastBuildDate>Sat, 16 Apr 2022 17:40:39 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 17 Apr 2022 15:11:27 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,17 +28,17 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>It&#8217;ll be ok</title>
-		<link>/itll-be-ok/</link>
+		<title>Ligation</title>
+		<link>/ligation/</link>
 		
-		<dc:creator><![CDATA[wordpressadmin]]></dc:creator>
-		<pubDate>Sat, 16 Apr 2022 17:40:38 +0000</pubDate>
+		<dc:creator><![CDATA[Kathy Shire]]></dc:creator>
+		<pubDate>Wed, 12 Jul 2017 20:17:40 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=72</guid>
+		<guid isPermaLink="false">/?p=17</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full is-style-default"><img width="1200" height="1230" src="/wp-content/uploads/2022/04/Itll-be-ok.jpg" alt="" class="wp-image-73" srcset="/wp-content/uploads/2022/04/Itll-be-ok.jpg 1200w, /wp-content/uploads/2022/04/Itll-be-ok-768x787.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+<div class="wp-block-image is-style-default"><figure class="aligncenter size-full is-resized"><img src="/wp-content/uploads/2022/04/Ligation.jpg" alt="" class="wp-image-18" width="600" height="615" srcset="/wp-content/uploads/2022/04/Ligation.jpg 1200w, /wp-content/uploads/2022/04/Ligation-768x787.jpg 768w" sizes="(max-width: 600px) 100vw, 600px" /></figure></div>
 ]]></content:encoded>
 					
 		
