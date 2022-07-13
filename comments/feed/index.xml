@@ -11,11 +11,11 @@
 	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>A sciencey comic by Kathy Shire</description>
-	<lastBuildDate>Sun, 17 Apr 2022 17:55:03 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 13 Jul 2022 22:58:15 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
 </channel>
 </rss>
