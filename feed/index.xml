@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>A sciencey comic by Kathy Shire</description>
-	<lastBuildDate>Sun, 17 Apr 2022 15:11:27 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 28 Jul 2022 23:57:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -37,9 +37,8 @@
 		<guid isPermaLink="false">/?p=17</guid>
 
 					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[
-<div class="wp-block-image is-style-default"><figure class="aligncenter size-full is-resized"><img src="/wp-content/uploads/2022/04/Ligation.jpg" alt="" class="wp-image-18" width="600" height="615" srcset="/wp-content/uploads/2022/04/Ligation.jpg 1200w, /wp-content/uploads/2022/04/Ligation-768x787.jpg 768w" sizes="(max-width: 600px) 100vw, 600px" /></figure></div>
-]]></content:encoded>
+										<content:encoded><![CDATA[<div class="wp-block-image is-style-default">
+<figure class="aligncenter size-full is-resized"><img src="/wp-content/uploads/2022/04/Ligation.jpg" alt="" class="wp-image-18" width="600" height="615" srcset="/wp-content/uploads/2022/04/Ligation.jpg 1200w, /wp-content/uploads/2022/04/Ligation-768x787.jpg 768w" sizes="(max-width: 600px) 100vw, 600px" /></figure></div>]]></content:encoded>
 					
 		
 		
