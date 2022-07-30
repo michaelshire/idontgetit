@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: New guy	</title>
-	<atom:link href="/new-guy/feed/" rel="self" type="application/rss+xml" />
-	<link>/new-guy/</link>
+	<atom:link href="http://idontgetit.ca/new-guy/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/new-guy/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Sun, 17 Apr 2022 17:32:14 +0000</lastBuildDate>
 	<sy:updatePeriod>

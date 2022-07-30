@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Imbalanced	</title>
-	<atom:link href="/imbalanced/feed/" rel="self" type="application/rss+xml" />
-	<link>/imbalanced/</link>
+	<atom:link href="http://idontgetit.ca/imbalanced/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/imbalanced/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Mon, 18 Jul 2022 22:58:41 +0000</lastBuildDate>
 	<sy:updatePeriod>

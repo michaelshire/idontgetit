@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: &#8220;Working&#8221;	</title>
-	<atom:link href="/working/feed/" rel="self" type="application/rss+xml" />
-	<link>/working/</link>
+	<atom:link href="http://idontgetit.ca/working/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/working/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Wed, 13 Jul 2022 22:42:46 +0000</lastBuildDate>
 	<sy:updatePeriod>

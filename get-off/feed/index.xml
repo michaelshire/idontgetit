@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Get off	</title>
-	<atom:link href="/get-off/feed/" rel="self" type="application/rss+xml" />
-	<link>/get-off/</link>
+	<atom:link href="http://idontgetit.ca/get-off/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/get-off/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Mon, 18 Jul 2022 23:20:29 +0000</lastBuildDate>
 	<sy:updatePeriod>

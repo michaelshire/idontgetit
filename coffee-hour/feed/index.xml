@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Coffee hour	</title>
-	<atom:link href="/coffee-hour/feed/" rel="self" type="application/rss+xml" />
-	<link>/coffee-hour/</link>
+	<atom:link href="http://idontgetit.ca/coffee-hour/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/coffee-hour/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Wed, 13 Jul 2022 22:13:03 +0000</lastBuildDate>
 	<sy:updatePeriod>

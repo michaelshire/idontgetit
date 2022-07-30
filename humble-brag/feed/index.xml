@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Humble brag	</title>
-	<atom:link href="/humble-brag/feed/" rel="self" type="application/rss+xml" />
-	<link>/humble-brag/</link>
+	<atom:link href="http://idontgetit.ca/humble-brag/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/humble-brag/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Mon, 18 Jul 2022 22:59:26 +0000</lastBuildDate>
 	<sy:updatePeriod>

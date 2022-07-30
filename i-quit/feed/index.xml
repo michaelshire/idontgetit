@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: I quit	</title>
-	<atom:link href="/i-quit/feed/" rel="self" type="application/rss+xml" />
-	<link>/i-quit/</link>
+	<atom:link href="http://idontgetit.ca/i-quit/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/i-quit/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Wed, 13 Jul 2022 22:46:26 +0000</lastBuildDate>
 	<sy:updatePeriod>

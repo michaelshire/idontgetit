@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Hot Stuff	</title>
-	<atom:link href="/hot-stuff/feed/" rel="self" type="application/rss+xml" />
-	<link>/hot-stuff/</link>
+	<atom:link href="http://idontgetit.ca/hot-stuff/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/hot-stuff/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Wed, 13 Jul 2022 21:25:31 +0000</lastBuildDate>
 	<sy:updatePeriod>

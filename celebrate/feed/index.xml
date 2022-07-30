@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Celebrate	</title>
-	<atom:link href="/celebrate/feed/" rel="self" type="application/rss+xml" />
-	<link>/celebrate/</link>
+	<atom:link href="http://idontgetit.ca/celebrate/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/celebrate/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Sun, 17 Apr 2022 17:30:03 +0000</lastBuildDate>
 	<sy:updatePeriod>

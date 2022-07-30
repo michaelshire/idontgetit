@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Renovations	</title>
-	<atom:link href="/renovations/feed/" rel="self" type="application/rss+xml" />
-	<link>/renovations/</link>
+	<atom:link href="http://idontgetit.ca/renovations/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/renovations/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Wed, 13 Jul 2022 21:42:06 +0000</lastBuildDate>
 	<sy:updatePeriod>

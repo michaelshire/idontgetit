@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Path to enlightenment	</title>
-	<atom:link href="/path-to-enlightenment/feed/" rel="self" type="application/rss+xml" />
-	<link>/path-to-enlightenment/</link>
+	<atom:link href="http://idontgetit.ca/path-to-enlightenment/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/path-to-enlightenment/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Mon, 18 Jul 2022 23:32:44 +0000</lastBuildDate>
 	<sy:updatePeriod>

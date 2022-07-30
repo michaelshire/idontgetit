@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Plz repeat	</title>
-	<atom:link href="/plz-repeat/feed/" rel="self" type="application/rss+xml" />
-	<link>/plz-repeat/</link>
+	<atom:link href="http://idontgetit.ca/plz-repeat/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/plz-repeat/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Sun, 17 Apr 2022 15:24:45 +0000</lastBuildDate>
 	<sy:updatePeriod>

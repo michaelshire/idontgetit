@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Taking forever	</title>
-	<atom:link href="/taking-forever/feed/" rel="self" type="application/rss+xml" />
-	<link>/taking-forever/</link>
+	<atom:link href="http://idontgetit.ca/taking-forever/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/taking-forever/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Wed, 13 Jul 2022 22:28:36 +0000</lastBuildDate>
 	<sy:updatePeriod>

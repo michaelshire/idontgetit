@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Take a hint	</title>
-	<atom:link href="/take-a-hint/feed/" rel="self" type="application/rss+xml" />
-	<link>/take-a-hint/</link>
+	<atom:link href="http://idontgetit.ca/take-a-hint/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/take-a-hint/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 18:43:57 +0000</lastBuildDate>
 	<sy:updatePeriod>

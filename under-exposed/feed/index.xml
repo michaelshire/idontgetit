@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Under exposed	</title>
-	<atom:link href="/under-exposed/feed/" rel="self" type="application/rss+xml" />
-	<link>/under-exposed/</link>
+	<atom:link href="http://idontgetit.ca/under-exposed/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/under-exposed/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Sun, 17 Apr 2022 17:48:33 +0000</lastBuildDate>
 	<sy:updatePeriod>

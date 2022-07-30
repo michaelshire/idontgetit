@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Grumpy centrifuge	</title>
-	<atom:link href="/grumpy-centrifuge/feed/" rel="self" type="application/rss+xml" />
-	<link>/grumpy-centrifuge/</link>
+	<atom:link href="http://idontgetit.ca/grumpy-centrifuge/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/grumpy-centrifuge/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Wed, 13 Jul 2022 22:52:50 +0000</lastBuildDate>
 	<sy:updatePeriod>

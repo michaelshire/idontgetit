@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Cheese	</title>
-	<atom:link href="/cheese/feed/" rel="self" type="application/rss+xml" />
-	<link>/cheese/</link>
+	<atom:link href="http://idontgetit.ca/cheese/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/cheese/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 21:26:13 +0000</lastBuildDate>
 	<sy:updatePeriod>

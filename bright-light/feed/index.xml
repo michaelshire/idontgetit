@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Bright light	</title>
-	<atom:link href="/bright-light/feed/" rel="self" type="application/rss+xml" />
-	<link>/bright-light/</link>
+	<atom:link href="http://idontgetit.ca/bright-light/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/bright-light/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Mon, 18 Jul 2022 23:43:31 +0000</lastBuildDate>
 	<sy:updatePeriod>

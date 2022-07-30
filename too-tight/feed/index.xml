@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Too tight	</title>
-	<atom:link href="/too-tight/feed/" rel="self" type="application/rss+xml" />
-	<link>/too-tight/</link>
+	<atom:link href="http://idontgetit.ca/too-tight/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/too-tight/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Mon, 18 Jul 2022 22:47:38 +0000</lastBuildDate>
 	<sy:updatePeriod>

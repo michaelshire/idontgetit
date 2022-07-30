@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Vortexer	</title>
-	<atom:link href="/vortexer/feed/" rel="self" type="application/rss+xml" />
-	<link>/vortexer/</link>
+	<atom:link href="http://idontgetit.ca/vortexer/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/vortexer/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Wed, 13 Jul 2022 22:30:15 +0000</lastBuildDate>
 	<sy:updatePeriod>

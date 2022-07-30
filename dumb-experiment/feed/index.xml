@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Dumb experiment	</title>
-	<atom:link href="/dumb-experiment/feed/" rel="self" type="application/rss+xml" />
-	<link>/dumb-experiment/</link>
+	<atom:link href="http://idontgetit.ca/dumb-experiment/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/dumb-experiment/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 18:22:30 +0000</lastBuildDate>
 	<sy:updatePeriod>

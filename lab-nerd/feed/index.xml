@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Lab nerd	</title>
-	<atom:link href="/lab-nerd/feed/" rel="self" type="application/rss+xml" />
-	<link>/lab-nerd/</link>
+	<atom:link href="http://idontgetit.ca/lab-nerd/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/lab-nerd/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 21:31:28 +0000</lastBuildDate>
 	<sy:updatePeriod>

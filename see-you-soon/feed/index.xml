@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: See you soon	</title>
-	<atom:link href="/see-you-soon/feed/" rel="self" type="application/rss+xml" />
-	<link>/see-you-soon/</link>
+	<atom:link href="http://idontgetit.ca/see-you-soon/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/see-you-soon/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 18:11:58 +0000</lastBuildDate>
 	<sy:updatePeriod>

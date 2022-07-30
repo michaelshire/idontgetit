@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Changing seasons	</title>
-	<atom:link href="/changing-seasons/feed/" rel="self" type="application/rss+xml" />
-	<link>/changing-seasons/</link>
+	<atom:link href="http://idontgetit.ca/changing-seasons/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/changing-seasons/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 18:28:54 +0000</lastBuildDate>
 	<sy:updatePeriod>

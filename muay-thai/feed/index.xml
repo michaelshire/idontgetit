@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Muay Thai	</title>
-	<atom:link href="/muay-thai/feed/" rel="self" type="application/rss+xml" />
-	<link>/muay-thai/</link>
+	<atom:link href="http://idontgetit.ca/muay-thai/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/muay-thai/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Sun, 17 Apr 2022 17:27:43 +0000</lastBuildDate>
 	<sy:updatePeriod>

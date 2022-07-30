@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Darn pockets	</title>
-	<atom:link href="/darn-pockets/feed/" rel="self" type="application/rss+xml" />
-	<link>/darn-pockets/</link>
+	<atom:link href="http://idontgetit.ca/darn-pockets/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/darn-pockets/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 21:31:37 +0000</lastBuildDate>
 	<sy:updatePeriod>

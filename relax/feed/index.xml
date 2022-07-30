@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Relax	</title>
-	<atom:link href="/relax/feed/" rel="self" type="application/rss+xml" />
-	<link>/relax/</link>
+	<atom:link href="http://idontgetit.ca/relax/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/relax/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Sun, 17 Apr 2022 17:24:30 +0000</lastBuildDate>
 	<sy:updatePeriod>

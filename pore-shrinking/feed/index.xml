@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Pore shrinking	</title>
-	<atom:link href="/pore-shrinking/feed/" rel="self" type="application/rss+xml" />
-	<link>/pore-shrinking/</link>
+	<atom:link href="http://idontgetit.ca/pore-shrinking/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/pore-shrinking/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Mon, 18 Jul 2022 23:42:49 +0000</lastBuildDate>
 	<sy:updatePeriod>

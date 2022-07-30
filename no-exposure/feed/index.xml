@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: No exposure	</title>
-	<atom:link href="/no-exposure/feed/" rel="self" type="application/rss+xml" />
-	<link>/no-exposure/</link>
+	<atom:link href="http://idontgetit.ca/no-exposure/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/no-exposure/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 18:06:34 +0000</lastBuildDate>
 	<sy:updatePeriod>

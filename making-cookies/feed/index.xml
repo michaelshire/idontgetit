@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Making cookies	</title>
-	<atom:link href="/making-cookies/feed/" rel="self" type="application/rss+xml" />
-	<link>/making-cookies/</link>
+	<atom:link href="http://idontgetit.ca/making-cookies/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/making-cookies/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 18:30:16 +0000</lastBuildDate>
 	<sy:updatePeriod>

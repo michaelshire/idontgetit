@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Stop that	</title>
-	<atom:link href="/stop-that/feed/" rel="self" type="application/rss+xml" />
-	<link>/stop-that/</link>
+	<atom:link href="http://idontgetit.ca/stop-that/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/stop-that/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Mon, 18 Jul 2022 22:52:09 +0000</lastBuildDate>
 	<sy:updatePeriod>

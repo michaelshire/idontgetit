@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Pesky scientists	</title>
-	<atom:link href="/pesky-scientists/feed/" rel="self" type="application/rss+xml" />
-	<link>/pesky-scientists/</link>
+	<atom:link href="http://idontgetit.ca/pesky-scientists/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/pesky-scientists/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Mon, 18 Jul 2022 23:16:41 +0000</lastBuildDate>
 	<sy:updatePeriod>

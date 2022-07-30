@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Cell cycle	</title>
-	<atom:link href="/cell-cycle/feed/" rel="self" type="application/rss+xml" />
-	<link>/cell-cycle/</link>
+	<atom:link href="http://idontgetit.ca/cell-cycle/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/cell-cycle/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Mon, 18 Jul 2022 23:14:22 +0000</lastBuildDate>
 	<sy:updatePeriod>

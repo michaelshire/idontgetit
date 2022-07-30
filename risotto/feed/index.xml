@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Risotto	</title>
-	<atom:link href="/risotto/feed/" rel="self" type="application/rss+xml" />
-	<link>/risotto/</link>
+	<atom:link href="http://idontgetit.ca/risotto/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/risotto/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 21:34:27 +0000</lastBuildDate>
 	<sy:updatePeriod>

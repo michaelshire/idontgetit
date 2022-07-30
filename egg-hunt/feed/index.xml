@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Egg hunt	</title>
-	<atom:link href="/egg-hunt/feed/" rel="self" type="application/rss+xml" />
-	<link>/egg-hunt/</link>
+	<atom:link href="http://idontgetit.ca/egg-hunt/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/egg-hunt/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Mon, 18 Jul 2022 23:07:48 +0000</lastBuildDate>
 	<sy:updatePeriod>

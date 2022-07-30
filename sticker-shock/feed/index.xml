@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Sticker shock	</title>
-	<atom:link href="/sticker-shock/feed/" rel="self" type="application/rss+xml" />
-	<link>/sticker-shock/</link>
+	<atom:link href="http://idontgetit.ca/sticker-shock/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/sticker-shock/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Mon, 18 Jul 2022 23:05:26 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Sorry buddy	</title>
-	<atom:link href="/sorry-buddy/feed/" rel="self" type="application/rss+xml" />
-	<link>/sorry-buddy/</link>
+	<atom:link href="http://idontgetit.ca/sorry-buddy/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/sorry-buddy/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Mon, 18 Jul 2022 22:57:19 +0000</lastBuildDate>
 	<sy:updatePeriod>

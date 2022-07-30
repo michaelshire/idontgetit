@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: First experiment	</title>
-	<atom:link href="/first-experiment/feed/" rel="self" type="application/rss+xml" />
-	<link>/first-experiment/</link>
+	<atom:link href="http://idontgetit.ca/first-experiment/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/first-experiment/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Mon, 18 Jul 2022 23:39:29 +0000</lastBuildDate>
 	<sy:updatePeriod>

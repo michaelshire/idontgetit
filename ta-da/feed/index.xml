@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Ta-da	</title>
-	<atom:link href="/ta-da/feed/" rel="self" type="application/rss+xml" />
-	<link>/ta-da/</link>
+	<atom:link href="http://idontgetit.ca/ta-da/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/ta-da/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Wed, 13 Jul 2022 22:16:58 +0000</lastBuildDate>
 	<sy:updatePeriod>

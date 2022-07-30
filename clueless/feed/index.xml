@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Clueless	</title>
-	<atom:link href="/clueless/feed/" rel="self" type="application/rss+xml" />
-	<link>/clueless/</link>
+	<atom:link href="http://idontgetit.ca/clueless/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/clueless/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Wed, 13 Jul 2022 21:53:35 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Get it together	</title>
-	<atom:link href="/get-it-together/feed/" rel="self" type="application/rss+xml" />
-	<link>/get-it-together/</link>
+	<atom:link href="http://idontgetit.ca/get-it-together/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/get-it-together/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Wed, 13 Jul 2022 22:39:10 +0000</lastBuildDate>
 	<sy:updatePeriod>

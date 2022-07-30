@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Exposed	</title>
-	<atom:link href="/exposed/feed/" rel="self" type="application/rss+xml" />
-	<link>/exposed/</link>
+	<atom:link href="http://idontgetit.ca/exposed/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/exposed/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Wed, 13 Jul 2022 22:16:08 +0000</lastBuildDate>
 	<sy:updatePeriod>

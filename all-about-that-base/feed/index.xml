@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: All about that base	</title>
-	<atom:link href="/all-about-that-base/feed/" rel="self" type="application/rss+xml" />
-	<link>/all-about-that-base/</link>
+	<atom:link href="http://idontgetit.ca/all-about-that-base/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/all-about-that-base/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Mon, 18 Jul 2022 23:48:24 +0000</lastBuildDate>
 	<sy:updatePeriod>

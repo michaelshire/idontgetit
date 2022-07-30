@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Mycology	</title>
-	<atom:link href="/mycology/feed/" rel="self" type="application/rss+xml" />
-	<link>/mycology/</link>
+	<atom:link href="http://idontgetit.ca/mycology/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/mycology/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Sun, 17 Apr 2022 15:17:35 +0000</lastBuildDate>
 	<sy:updatePeriod>

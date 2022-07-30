@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Lemon cakes	</title>
-	<atom:link href="/lemon-cakes/feed/" rel="self" type="application/rss+xml" />
-	<link>/lemon-cakes/</link>
+	<atom:link href="http://idontgetit.ca/lemon-cakes/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/lemon-cakes/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Mon, 18 Jul 2022 23:02:08 +0000</lastBuildDate>
 	<sy:updatePeriod>

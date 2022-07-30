@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Perfect pH	</title>
-	<atom:link href="/perfect-ph/feed/" rel="self" type="application/rss+xml" />
-	<link>/perfect-ph/</link>
+	<atom:link href="http://idontgetit.ca/perfect-ph/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/perfect-ph/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Wed, 13 Jul 2022 22:50:06 +0000</lastBuildDate>
 	<sy:updatePeriod>

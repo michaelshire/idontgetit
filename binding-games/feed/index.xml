@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Binding games	</title>
-	<atom:link href="/binding-games/feed/" rel="self" type="application/rss+xml" />
-	<link>/binding-games/</link>
+	<atom:link href="http://idontgetit.ca/binding-games/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/binding-games/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Wed, 13 Jul 2022 22:32:52 +0000</lastBuildDate>
 	<sy:updatePeriod>

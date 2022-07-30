@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Who wants pancakes	</title>
-	<atom:link href="/who-wants-pancakes/feed/" rel="self" type="application/rss+xml" />
-	<link>/who-wants-pancakes/</link>
+	<atom:link href="http://idontgetit.ca/who-wants-pancakes/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/who-wants-pancakes/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Mon, 18 Jul 2022 23:25:45 +0000</lastBuildDate>
 	<sy:updatePeriod>

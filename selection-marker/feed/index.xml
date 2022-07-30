@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Selection marker	</title>
-	<atom:link href="/selection-marker/feed/" rel="self" type="application/rss+xml" />
-	<link>/selection-marker/</link>
+	<atom:link href="http://idontgetit.ca/selection-marker/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/selection-marker/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Wed, 13 Jul 2022 22:51:53 +0000</lastBuildDate>
 	<sy:updatePeriod>

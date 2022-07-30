@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Stuck buddy	</title>
-	<atom:link href="/stuck-buddy/feed/" rel="self" type="application/rss+xml" />
-	<link>/stuck-buddy/</link>
+	<atom:link href="http://idontgetit.ca/stuck-buddy/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/stuck-buddy/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Mon, 18 Jul 2022 22:50:27 +0000</lastBuildDate>
 	<sy:updatePeriod>

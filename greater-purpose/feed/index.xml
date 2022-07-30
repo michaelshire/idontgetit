@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Greater purpose	</title>
-	<atom:link href="/greater-purpose/feed/" rel="self" type="application/rss+xml" />
-	<link>/greater-purpose/</link>
+	<atom:link href="http://idontgetit.ca/greater-purpose/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/greater-purpose/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 18:37:36 +0000</lastBuildDate>
 	<sy:updatePeriod>

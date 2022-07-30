@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Metaphase	</title>
-	<atom:link href="/metaphase/feed/" rel="self" type="application/rss+xml" />
-	<link>/metaphase/</link>
+	<atom:link href="http://idontgetit.ca/metaphase/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/metaphase/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Wed, 13 Jul 2022 21:52:41 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Water Skiing	</title>
-	<atom:link href="/water-skiing/feed/" rel="self" type="application/rss+xml" />
-	<link>/water-skiing/</link>
+	<atom:link href="http://idontgetit.ca/water-skiing/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/water-skiing/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Wed, 13 Jul 2022 21:18:19 +0000</lastBuildDate>
 	<sy:updatePeriod>

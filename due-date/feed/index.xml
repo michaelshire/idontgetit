@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Due date	</title>
-	<atom:link href="/due-date/feed/" rel="self" type="application/rss+xml" />
-	<link>/due-date/</link>
+	<atom:link href="http://idontgetit.ca/due-date/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/due-date/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 21:26:47 +0000</lastBuildDate>
 	<sy:updatePeriod>

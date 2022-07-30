@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Bets	</title>
-	<atom:link href="/bets/feed/" rel="self" type="application/rss+xml" />
-	<link>/bets/</link>
+	<atom:link href="http://idontgetit.ca/bets/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/bets/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Wed, 13 Jul 2022 22:09:30 +0000</lastBuildDate>
 	<sy:updatePeriod>

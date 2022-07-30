@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Not funny	</title>
-	<atom:link href="/not-funny/feed/" rel="self" type="application/rss+xml" />
-	<link>/not-funny/</link>
+	<atom:link href="http://idontgetit.ca/not-funny/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/not-funny/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Mon, 18 Jul 2022 23:00:08 +0000</lastBuildDate>
 	<sy:updatePeriod>

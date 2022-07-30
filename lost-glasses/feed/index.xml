@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Lost glasses	</title>
-	<atom:link href="/lost-glasses/feed/" rel="self" type="application/rss+xml" />
-	<link>/lost-glasses/</link>
+	<atom:link href="http://idontgetit.ca/lost-glasses/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/lost-glasses/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 20:43:02 +0000</lastBuildDate>
 	<sy:updatePeriod>

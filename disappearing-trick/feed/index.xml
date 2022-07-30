@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Disappearing trick	</title>
-	<atom:link href="/disappearing-trick/feed/" rel="self" type="application/rss+xml" />
-	<link>/disappearing-trick/</link>
+	<atom:link href="http://idontgetit.ca/disappearing-trick/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/disappearing-trick/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 18:16:57 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: My spot	</title>
-	<atom:link href="/my-spot/feed/" rel="self" type="application/rss+xml" />
-	<link>/my-spot/</link>
+	<atom:link href="http://idontgetit.ca/my-spot/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/my-spot/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Mon, 18 Jul 2022 22:48:16 +0000</lastBuildDate>
 	<sy:updatePeriod>

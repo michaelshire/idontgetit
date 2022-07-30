@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Love fungus	</title>
-	<atom:link href="/love-fungus/feed/" rel="self" type="application/rss+xml" />
-	<link>/love-fungus/</link>
+	<atom:link href="http://idontgetit.ca/love-fungus/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/love-fungus/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 18:43:19 +0000</lastBuildDate>
 	<sy:updatePeriod>

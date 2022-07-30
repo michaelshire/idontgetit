@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Candy	</title>
-	<atom:link href="/candy/feed/" rel="self" type="application/rss+xml" />
-	<link>/candy/</link>
+	<atom:link href="http://idontgetit.ca/candy/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/candy/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 18:02:01 +0000</lastBuildDate>
 	<sy:updatePeriod>

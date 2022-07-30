@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Pay attention	</title>
-	<atom:link href="/pay-attention/feed/" rel="self" type="application/rss+xml" />
-	<link>/pay-attention/</link>
+	<atom:link href="http://idontgetit.ca/pay-attention/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/pay-attention/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Sun, 17 Apr 2022 17:43:49 +0000</lastBuildDate>
 	<sy:updatePeriod>

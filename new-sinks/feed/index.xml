@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: New sinks	</title>
-	<atom:link href="/new-sinks/feed/" rel="self" type="application/rss+xml" />
-	<link>/new-sinks/</link>
+	<atom:link href="http://idontgetit.ca/new-sinks/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/new-sinks/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Wed, 13 Jul 2022 21:39:40 +0000</lastBuildDate>
 	<sy:updatePeriod>

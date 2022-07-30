@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Free suckers	</title>
-	<atom:link href="/free-suckers/feed/" rel="self" type="application/rss+xml" />
-	<link>/free-suckers/</link>
+	<atom:link href="http://idontgetit.ca/free-suckers/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/free-suckers/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 18:08:28 +0000</lastBuildDate>
 	<sy:updatePeriod>

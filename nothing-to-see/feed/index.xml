@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Nothing to see	</title>
-	<atom:link href="/nothing-to-see/feed/" rel="self" type="application/rss+xml" />
-	<link>/nothing-to-see/</link>
+	<atom:link href="http://idontgetit.ca/nothing-to-see/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/nothing-to-see/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 18:54:50 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Excuse us	</title>
-	<atom:link href="/excuse-us/feed/" rel="self" type="application/rss+xml" />
-	<link>/excuse-us/</link>
+	<atom:link href="http://idontgetit.ca/excuse-us/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/excuse-us/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 18:15:33 +0000</lastBuildDate>
 	<sy:updatePeriod>

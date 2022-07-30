@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: EBV positive	</title>
-	<atom:link href="/ebv-positive/feed/" rel="self" type="application/rss+xml" />
-	<link>/ebv-positive/</link>
+	<atom:link href="http://idontgetit.ca/ebv-positive/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/ebv-positive/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 20:39:06 +0000</lastBuildDate>
 	<sy:updatePeriod>

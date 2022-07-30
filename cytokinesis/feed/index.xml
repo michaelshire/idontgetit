@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Cytokinesis	</title>
-	<atom:link href="/cytokinesis/feed/" rel="self" type="application/rss+xml" />
-	<link>/cytokinesis/</link>
+	<atom:link href="http://idontgetit.ca/cytokinesis/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/cytokinesis/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 18:17:40 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Shut up	</title>
-	<atom:link href="/shut-up/feed/" rel="self" type="application/rss+xml" />
-	<link>/shut-up/</link>
+	<atom:link href="http://idontgetit.ca/shut-up/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/shut-up/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 18:31:35 +0000</lastBuildDate>
 	<sy:updatePeriod>

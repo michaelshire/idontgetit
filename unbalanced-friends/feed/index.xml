@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Unbalanced friends	</title>
-	<atom:link href="/unbalanced-friends/feed/" rel="self" type="application/rss+xml" />
-	<link>/unbalanced-friends/</link>
+	<atom:link href="http://idontgetit.ca/unbalanced-friends/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/unbalanced-friends/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Wed, 13 Jul 2022 22:42:19 +0000</lastBuildDate>
 	<sy:updatePeriod>

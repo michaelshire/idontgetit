@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Good question	</title>
-	<atom:link href="/good-question/feed/" rel="self" type="application/rss+xml" />
-	<link>/good-question/</link>
+	<atom:link href="http://idontgetit.ca/good-question/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/good-question/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Mon, 18 Jul 2022 23:08:28 +0000</lastBuildDate>
 	<sy:updatePeriod>

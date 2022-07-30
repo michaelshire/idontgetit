@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Snowman	</title>
-	<atom:link href="/snowman/feed/" rel="self" type="application/rss+xml" />
-	<link>/snowman/</link>
+	<atom:link href="http://idontgetit.ca/snowman/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/snowman/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 18:49:35 +0000</lastBuildDate>
 	<sy:updatePeriod>

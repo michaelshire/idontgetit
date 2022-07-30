@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Not today	</title>
-	<atom:link href="/not-today/feed/" rel="self" type="application/rss+xml" />
-	<link>/not-today/</link>
+	<atom:link href="http://idontgetit.ca/not-today/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/not-today/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 18:23:49 +0000</lastBuildDate>
 	<sy:updatePeriod>

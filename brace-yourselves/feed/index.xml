@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Brace yourselves	</title>
-	<atom:link href="/brace-yourselves/feed/" rel="self" type="application/rss+xml" />
-	<link>/brace-yourselves/</link>
+	<atom:link href="http://idontgetit.ca/brace-yourselves/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/brace-yourselves/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 18:10:10 +0000</lastBuildDate>
 	<sy:updatePeriod>

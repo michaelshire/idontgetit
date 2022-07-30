@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Moving	</title>
-	<atom:link href="/moving/feed/" rel="self" type="application/rss+xml" />
-	<link>/moving/</link>
+	<atom:link href="http://idontgetit.ca/moving/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/moving/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Wed, 13 Jul 2022 21:14:10 +0000</lastBuildDate>
 	<sy:updatePeriod>

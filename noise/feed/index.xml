@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Noise	</title>
-	<atom:link href="/noise/feed/" rel="self" type="application/rss+xml" />
-	<link>/noise/</link>
+	<atom:link href="http://idontgetit.ca/noise/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/noise/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Sun, 17 Apr 2022 17:28:58 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Hostage chromosome	</title>
-	<atom:link href="/hostage-chromosome/feed/" rel="self" type="application/rss+xml" />
-	<link>/hostage-chromosome/</link>
+	<atom:link href="http://idontgetit.ca/hostage-chromosome/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/hostage-chromosome/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Mon, 18 Jul 2022 23:00:51 +0000</lastBuildDate>
 	<sy:updatePeriod>

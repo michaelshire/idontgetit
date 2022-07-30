@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Cut the DNA	</title>
-	<atom:link href="/cut-the-dna/feed/" rel="self" type="application/rss+xml" />
-	<link>/cut-the-dna/</link>
+	<atom:link href="http://idontgetit.ca/cut-the-dna/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/cut-the-dna/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Wed, 13 Jul 2022 22:27:48 +0000</lastBuildDate>
 	<sy:updatePeriod>

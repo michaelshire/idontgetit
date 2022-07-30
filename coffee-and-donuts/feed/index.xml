@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Coffee and donuts	</title>
-	<atom:link href="/coffee-and-donuts/feed/" rel="self" type="application/rss+xml" />
-	<link>/coffee-and-donuts/</link>
+	<atom:link href="http://idontgetit.ca/coffee-and-donuts/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/coffee-and-donuts/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Mon, 18 Jul 2022 23:18:03 +0000</lastBuildDate>
 	<sy:updatePeriod>

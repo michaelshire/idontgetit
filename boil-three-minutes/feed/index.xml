@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Boil three minutes	</title>
-	<atom:link href="/boil-three-minutes/feed/" rel="self" type="application/rss+xml" />
-	<link>/boil-three-minutes/</link>
+	<atom:link href="http://idontgetit.ca/boil-three-minutes/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/boil-three-minutes/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 21:28:49 +0000</lastBuildDate>
 	<sy:updatePeriod>

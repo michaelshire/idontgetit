@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Another floater	</title>
-	<atom:link href="/another-floater/feed/" rel="self" type="application/rss+xml" />
-	<link>/another-floater/</link>
+	<atom:link href="http://idontgetit.ca/another-floater/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/another-floater/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 18:19:53 +0000</lastBuildDate>
 	<sy:updatePeriod>

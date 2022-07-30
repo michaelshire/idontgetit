@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Lookin crispy	</title>
-	<atom:link href="/lookin-crispy/feed/" rel="self" type="application/rss+xml" />
-	<link>/lookin-crispy/</link>
+	<atom:link href="http://idontgetit.ca/lookin-crispy/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/lookin-crispy/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Mon, 18 Jul 2022 23:24:21 +0000</lastBuildDate>
 	<sy:updatePeriod>

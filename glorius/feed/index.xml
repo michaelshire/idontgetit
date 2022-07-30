@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Glorius	</title>
-	<atom:link href="/glorius/feed/" rel="self" type="application/rss+xml" />
-	<link>/glorius/</link>
+	<atom:link href="http://idontgetit.ca/glorius/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/glorius/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Wed, 13 Jul 2022 21:12:16 +0000</lastBuildDate>
 	<sy:updatePeriod>

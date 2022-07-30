@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Twitching foot	</title>
-	<atom:link href="/twitching-foot/feed/" rel="self" type="application/rss+xml" />
-	<link>/twitching-foot/</link>
+	<atom:link href="http://idontgetit.ca/twitching-foot/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/twitching-foot/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Mon, 18 Jul 2022 23:18:42 +0000</lastBuildDate>
 	<sy:updatePeriod>

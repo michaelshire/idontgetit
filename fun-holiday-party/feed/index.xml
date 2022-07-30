@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Fun Holiday Party	</title>
-	<atom:link href="/fun-holiday-party/feed/" rel="self" type="application/rss+xml" />
-	<link>/fun-holiday-party/</link>
+	<atom:link href="http://idontgetit.ca/fun-holiday-party/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/fun-holiday-party/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Wed, 13 Jul 2022 21:27:23 +0000</lastBuildDate>
 	<sy:updatePeriod>

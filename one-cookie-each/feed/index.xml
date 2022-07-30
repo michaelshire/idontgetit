@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: One cookie each	</title>
-	<atom:link href="/one-cookie-each/feed/" rel="self" type="application/rss+xml" />
-	<link>/one-cookie-each/</link>
+	<atom:link href="http://idontgetit.ca/one-cookie-each/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/one-cookie-each/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 21:33:40 +0000</lastBuildDate>
 	<sy:updatePeriod>

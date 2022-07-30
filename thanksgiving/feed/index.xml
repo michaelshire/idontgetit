@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Thanksgiving	</title>
-	<atom:link href="/thanksgiving/feed/" rel="self" type="application/rss+xml" />
-	<link>/thanksgiving/</link>
+	<atom:link href="http://idontgetit.ca/thanksgiving/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/thanksgiving/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 18:35:34 +0000</lastBuildDate>
 	<sy:updatePeriod>

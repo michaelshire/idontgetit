@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: First time	</title>
-	<atom:link href="/first-time/feed/" rel="self" type="application/rss+xml" />
-	<link>/first-time/</link>
+	<atom:link href="http://idontgetit.ca/first-time/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/first-time/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 21:34:44 +0000</lastBuildDate>
 	<sy:updatePeriod>

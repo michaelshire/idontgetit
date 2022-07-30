@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Secret service	</title>
-	<atom:link href="/secret-service/feed/" rel="self" type="application/rss+xml" />
-	<link>/secret-service/</link>
+	<atom:link href="http://idontgetit.ca/secret-service/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/secret-service/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 21:31:58 +0000</lastBuildDate>
 	<sy:updatePeriod>

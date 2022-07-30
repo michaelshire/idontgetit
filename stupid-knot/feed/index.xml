@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Stupid knot	</title>
-	<atom:link href="/stupid-knot/feed/" rel="self" type="application/rss+xml" />
-	<link>/stupid-knot/</link>
+	<atom:link href="http://idontgetit.ca/stupid-knot/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/stupid-knot/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Mon, 18 Jul 2022 23:03:50 +0000</lastBuildDate>
 	<sy:updatePeriod>

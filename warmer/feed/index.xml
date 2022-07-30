@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Warmer	</title>
-	<atom:link href="/warmer/feed/" rel="self" type="application/rss+xml" />
-	<link>/warmer/</link>
+	<atom:link href="http://idontgetit.ca/warmer/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/warmer/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 21:34:19 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Remember	</title>
-	<atom:link href="/remember/feed/" rel="self" type="application/rss+xml" />
-	<link>/remember/</link>
+	<atom:link href="http://idontgetit.ca/remember/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/remember/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Sun, 17 Apr 2022 17:33:08 +0000</lastBuildDate>
 	<sy:updatePeriod>

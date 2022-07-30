@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Hang On	</title>
-	<atom:link href="/hang-on/feed/" rel="self" type="application/rss+xml" />
-	<link>/hang-on/</link>
+	<atom:link href="http://idontgetit.ca/hang-on/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idontgetit.ca/hang-on/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Sun, 17 Apr 2022 15:29:13 +0000</lastBuildDate>
 	<sy:updatePeriod>
