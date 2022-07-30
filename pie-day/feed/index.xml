@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Pie day	</title>
-	<atom:link href="http://idontgetit.ca/pie-day/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/pie-day/</link>
+	<atom:link href="/pie-day/feed/" rel="self" type="application/rss+xml" />
+	<link>/pie-day/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Mon, 18 Jul 2022 23:13:36 +0000</lastBuildDate>
 	<sy:updatePeriod>

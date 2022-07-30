@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: You&#8217;re special	</title>
-	<atom:link href="http://idontgetit.ca/youre-special/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/youre-special/</link>
+	<atom:link href="/youre-special/feed/" rel="self" type="application/rss+xml" />
+	<link>/youre-special/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 21:35:53 +0000</lastBuildDate>
 	<sy:updatePeriod>

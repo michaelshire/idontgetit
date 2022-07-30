@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Silenced	</title>
-	<atom:link href="http://idontgetit.ca/silenced/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/silenced/</link>
+	<atom:link href="/silenced/feed/" rel="self" type="application/rss+xml" />
+	<link>/silenced/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 18:33:12 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Sticky Floors	</title>
-	<atom:link href="http://idontgetit.ca/sticky-floors/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/sticky-floors/</link>
+	<atom:link href="/sticky-floors/feed/" rel="self" type="application/rss+xml" />
+	<link>/sticky-floors/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Sun, 17 Apr 2022 15:13:36 +0000</lastBuildDate>
 	<sy:updatePeriod>

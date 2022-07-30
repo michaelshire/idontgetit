@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Must bind	</title>
-	<atom:link href="http://idontgetit.ca/must-bind/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/must-bind/</link>
+	<atom:link href="/must-bind/feed/" rel="self" type="application/rss+xml" />
+	<link>/must-bind/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Wed, 13 Jul 2022 22:33:37 +0000</lastBuildDate>
 	<sy:updatePeriod>

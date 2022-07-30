@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Wrong Plasmid	</title>
-	<atom:link href="http://idontgetit.ca/wrong-plasmid/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/wrong-plasmid/</link>
+	<atom:link href="/wrong-plasmid/feed/" rel="self" type="application/rss+xml" />
+	<link>/wrong-plasmid/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Wed, 13 Jul 2022 21:33:36 +0000</lastBuildDate>
 	<sy:updatePeriod>

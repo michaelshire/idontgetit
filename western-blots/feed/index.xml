@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Western blots	</title>
-	<atom:link href="http://idontgetit.ca/western-blots/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/western-blots/</link>
+	<atom:link href="/western-blots/feed/" rel="self" type="application/rss+xml" />
+	<link>/western-blots/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Sun, 17 Apr 2022 17:43:42 +0000</lastBuildDate>
 	<sy:updatePeriod>

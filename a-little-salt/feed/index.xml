@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: A little salt	</title>
-	<atom:link href="http://idontgetit.ca/a-little-salt/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/a-little-salt/</link>
+	<atom:link href="/a-little-salt/feed/" rel="self" type="application/rss+xml" />
+	<link>/a-little-salt/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 21:29:08 +0000</lastBuildDate>
 	<sy:updatePeriod>

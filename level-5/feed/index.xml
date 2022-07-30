@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Level 5	</title>
-	<atom:link href="http://idontgetit.ca/level-5/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/level-5/</link>
+	<atom:link href="/level-5/feed/" rel="self" type="application/rss+xml" />
+	<link>/level-5/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 18:34:11 +0000</lastBuildDate>
 	<sy:updatePeriod>

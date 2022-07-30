@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Incontinence	</title>
-	<atom:link href="http://idontgetit.ca/incontinence/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/incontinence/</link>
+	<atom:link href="/incontinence/feed/" rel="self" type="application/rss+xml" />
+	<link>/incontinence/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Mon, 18 Jul 2022 23:38:44 +0000</lastBuildDate>
 	<sy:updatePeriod>

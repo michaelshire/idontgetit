@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Smile	</title>
-	<atom:link href="http://idontgetit.ca/smile/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/smile/</link>
+	<atom:link href="/smile/feed/" rel="self" type="application/rss+xml" />
+	<link>/smile/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Wed, 13 Jul 2022 22:40:04 +0000</lastBuildDate>
 	<sy:updatePeriod>

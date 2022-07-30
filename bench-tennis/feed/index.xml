@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Bench tennis	</title>
-	<atom:link href="http://idontgetit.ca/bench-tennis/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/bench-tennis/</link>
+	<atom:link href="/bench-tennis/feed/" rel="self" type="application/rss+xml" />
+	<link>/bench-tennis/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Wed, 13 Jul 2022 22:24:36 +0000</lastBuildDate>
 	<sy:updatePeriod>

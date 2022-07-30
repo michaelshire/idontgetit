@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Degraded protein	</title>
-	<atom:link href="http://idontgetit.ca/degraded-protein/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/degraded-protein/</link>
+	<atom:link href="/degraded-protein/feed/" rel="self" type="application/rss+xml" />
+	<link>/degraded-protein/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Mon, 18 Jul 2022 23:28:52 +0000</lastBuildDate>
 	<sy:updatePeriod>

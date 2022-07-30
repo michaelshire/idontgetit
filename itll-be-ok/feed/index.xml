@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: It&#8217;ll be ok	</title>
-	<atom:link href="http://idontgetit.ca/itll-be-ok/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/itll-be-ok/</link>
+	<atom:link href="/itll-be-ok/feed/" rel="self" type="application/rss+xml" />
+	<link>/itll-be-ok/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Sun, 17 Apr 2022 15:13:15 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: That&#8217;s how science is done	</title>
-	<atom:link href="http://idontgetit.ca/thats-how-science-is-done/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/thats-how-science-is-done/</link>
+	<atom:link href="/thats-how-science-is-done/feed/" rel="self" type="application/rss+xml" />
+	<link>/thats-how-science-is-done/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Mon, 18 Jul 2022 22:58:08 +0000</lastBuildDate>
 	<sy:updatePeriod>

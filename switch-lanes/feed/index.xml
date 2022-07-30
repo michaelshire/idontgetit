@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Switch lanes	</title>
-	<atom:link href="http://idontgetit.ca/switch-lanes/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/switch-lanes/</link>
+	<atom:link href="/switch-lanes/feed/" rel="self" type="application/rss+xml" />
+	<link>/switch-lanes/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 21:26:55 +0000</lastBuildDate>
 	<sy:updatePeriod>

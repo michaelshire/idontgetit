@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Making friends	</title>
-	<atom:link href="http://idontgetit.ca/making-friends/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/making-friends/</link>
+	<atom:link href="/making-friends/feed/" rel="self" type="application/rss+xml" />
+	<link>/making-friends/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Sun, 17 Apr 2022 17:20:51 +0000</lastBuildDate>
 	<sy:updatePeriod>

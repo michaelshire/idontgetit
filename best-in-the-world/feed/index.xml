@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Best in the world	</title>
-	<atom:link href="http://idontgetit.ca/best-in-the-world/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/best-in-the-world/</link>
+	<atom:link href="/best-in-the-world/feed/" rel="self" type="application/rss+xml" />
+	<link>/best-in-the-world/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Wed, 13 Jul 2022 21:48:37 +0000</lastBuildDate>
 	<sy:updatePeriod>

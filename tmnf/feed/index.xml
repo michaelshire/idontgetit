@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: TMNF	</title>
-	<atom:link href="http://idontgetit.ca/tmnf/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/tmnf/</link>
+	<atom:link href="/tmnf/feed/" rel="self" type="application/rss+xml" />
+	<link>/tmnf/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 21:26:36 +0000</lastBuildDate>
 	<sy:updatePeriod>

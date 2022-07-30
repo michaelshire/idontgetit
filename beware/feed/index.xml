@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Beware	</title>
-	<atom:link href="http://idontgetit.ca/beware/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/beware/</link>
+	<atom:link href="/beware/feed/" rel="self" type="application/rss+xml" />
+	<link>/beware/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 21:26:29 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Sketchy incubator	</title>
-	<atom:link href="http://idontgetit.ca/sketchy-incubator/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/sketchy-incubator/</link>
+	<atom:link href="/sketchy-incubator/feed/" rel="self" type="application/rss+xml" />
+	<link>/sketchy-incubator/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Wed, 13 Jul 2022 22:42:32 +0000</lastBuildDate>
 	<sy:updatePeriod>

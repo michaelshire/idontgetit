@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: G2 arrest	</title>
-	<atom:link href="http://idontgetit.ca/g2-arrest/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/g2-arrest/</link>
+	<atom:link href="/g2-arrest/feed/" rel="self" type="application/rss+xml" />
+	<link>/g2-arrest/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 18:50:10 +0000</lastBuildDate>
 	<sy:updatePeriod>

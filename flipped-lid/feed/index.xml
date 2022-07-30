@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Flipped lid	</title>
-	<atom:link href="http://idontgetit.ca/flipped-lid/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/flipped-lid/</link>
+	<atom:link href="/flipped-lid/feed/" rel="self" type="application/rss+xml" />
+	<link>/flipped-lid/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Mon, 18 Jul 2022 23:24:59 +0000</lastBuildDate>
 	<sy:updatePeriod>

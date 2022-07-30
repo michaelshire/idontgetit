@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Mixed signals	</title>
-	<atom:link href="http://idontgetit.ca/mixed-signals/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/mixed-signals/</link>
+	<atom:link href="/mixed-signals/feed/" rel="self" type="application/rss+xml" />
+	<link>/mixed-signals/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 18:24:36 +0000</lastBuildDate>
 	<sy:updatePeriod>

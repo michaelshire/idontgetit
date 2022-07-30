@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Selfie first	</title>
-	<atom:link href="http://idontgetit.ca/selfie-first/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/selfie-first/</link>
+	<atom:link href="/selfie-first/feed/" rel="self" type="application/rss+xml" />
+	<link>/selfie-first/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Mon, 18 Jul 2022 23:19:40 +0000</lastBuildDate>
 	<sy:updatePeriod>

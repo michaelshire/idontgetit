@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Worst experiment ever	</title>
-	<atom:link href="http://idontgetit.ca/worst-experiment-ever/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/worst-experiment-ever/</link>
+	<atom:link href="/worst-experiment-ever/feed/" rel="self" type="application/rss+xml" />
+	<link>/worst-experiment-ever/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Mon, 18 Jul 2022 23:37:33 +0000</lastBuildDate>
 	<sy:updatePeriod>

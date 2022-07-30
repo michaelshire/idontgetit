@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Aliens and wormholes	</title>
-	<atom:link href="http://idontgetit.ca/aliens-and-wormholes/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/aliens-and-wormholes/</link>
+	<atom:link href="/aliens-and-wormholes/feed/" rel="self" type="application/rss+xml" />
+	<link>/aliens-and-wormholes/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Wed, 13 Jul 2022 22:41:22 +0000</lastBuildDate>
 	<sy:updatePeriod>

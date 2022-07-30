@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: I&#8217;m just better	</title>
-	<atom:link href="http://idontgetit.ca/im-just-better/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/im-just-better/</link>
+	<atom:link href="/im-just-better/feed/" rel="self" type="application/rss+xml" />
+	<link>/im-just-better/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Wed, 13 Jul 2022 22:20:47 +0000</lastBuildDate>
 	<sy:updatePeriod>

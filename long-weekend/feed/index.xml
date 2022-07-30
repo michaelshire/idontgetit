@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Long weekend	</title>
-	<atom:link href="http://idontgetit.ca/long-weekend/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/long-weekend/</link>
+	<atom:link href="/long-weekend/feed/" rel="self" type="application/rss+xml" />
+	<link>/long-weekend/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Wed, 13 Jul 2022 22:34:21 +0000</lastBuildDate>
 	<sy:updatePeriod>

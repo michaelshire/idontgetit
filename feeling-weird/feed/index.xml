@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Feeling weird	</title>
-	<atom:link href="http://idontgetit.ca/feeling-weird/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/feeling-weird/</link>
+	<atom:link href="/feeling-weird/feed/" rel="self" type="application/rss+xml" />
+	<link>/feeling-weird/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Mon, 18 Jul 2022 23:30:56 +0000</lastBuildDate>
 	<sy:updatePeriod>

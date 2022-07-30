@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Demanding	</title>
-	<atom:link href="http://idontgetit.ca/demanding/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/demanding/</link>
+	<atom:link href="/demanding/feed/" rel="self" type="application/rss+xml" />
+	<link>/demanding/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Wed, 13 Jul 2022 21:29:19 +0000</lastBuildDate>
 	<sy:updatePeriod>

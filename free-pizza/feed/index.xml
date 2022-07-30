@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Free pizza	</title>
-	<atom:link href="http://idontgetit.ca/free-pizza/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/free-pizza/</link>
+	<atom:link href="/free-pizza/feed/" rel="self" type="application/rss+xml" />
+	<link>/free-pizza/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 21:33:32 +0000</lastBuildDate>
 	<sy:updatePeriod>

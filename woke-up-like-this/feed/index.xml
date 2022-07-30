@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Woke up like this	</title>
-	<atom:link href="http://idontgetit.ca/woke-up-like-this/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/woke-up-like-this/</link>
+	<atom:link href="/woke-up-like-this/feed/" rel="self" type="application/rss+xml" />
+	<link>/woke-up-like-this/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 18:45:06 +0000</lastBuildDate>
 	<sy:updatePeriod>

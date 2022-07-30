@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Forehead	</title>
-	<atom:link href="http://idontgetit.ca/forehead/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/forehead/</link>
+	<atom:link href="/forehead/feed/" rel="self" type="application/rss+xml" />
+	<link>/forehead/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Sun, 17 Apr 2022 17:50:20 +0000</lastBuildDate>
 	<sy:updatePeriod>

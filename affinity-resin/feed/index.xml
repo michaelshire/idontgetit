@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Affinity resin	</title>
-	<atom:link href="http://idontgetit.ca/affinity-resin/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/affinity-resin/</link>
+	<atom:link href="/affinity-resin/feed/" rel="self" type="application/rss+xml" />
+	<link>/affinity-resin/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Mon, 18 Jul 2022 23:36:46 +0000</lastBuildDate>
 	<sy:updatePeriod>

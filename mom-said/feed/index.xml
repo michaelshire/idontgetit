@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Mom said	</title>
-	<atom:link href="http://idontgetit.ca/mom-said/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/mom-said/</link>
+	<atom:link href="/mom-said/feed/" rel="self" type="application/rss+xml" />
+	<link>/mom-said/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Wed, 13 Jul 2022 21:50:09 +0000</lastBuildDate>
 	<sy:updatePeriod>

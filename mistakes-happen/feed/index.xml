@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Mistakes happen	</title>
-	<atom:link href="http://idontgetit.ca/mistakes-happen/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/mistakes-happen/</link>
+	<atom:link href="/mistakes-happen/feed/" rel="self" type="application/rss+xml" />
+	<link>/mistakes-happen/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 18:07:53 +0000</lastBuildDate>
 	<sy:updatePeriod>

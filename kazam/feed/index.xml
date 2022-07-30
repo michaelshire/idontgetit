@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Kazam	</title>
-	<atom:link href="http://idontgetit.ca/kazam/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/kazam/</link>
+	<atom:link href="/kazam/feed/" rel="self" type="application/rss+xml" />
+	<link>/kazam/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 18:49:00 +0000</lastBuildDate>
 	<sy:updatePeriod>

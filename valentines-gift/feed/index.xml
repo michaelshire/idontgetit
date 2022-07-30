@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Valentines gift	</title>
-	<atom:link href="http://idontgetit.ca/valentines-gift/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/valentines-gift/</link>
+	<atom:link href="/valentines-gift/feed/" rel="self" type="application/rss+xml" />
+	<link>/valentines-gift/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Mon, 18 Jul 2022 23:26:48 +0000</lastBuildDate>
 	<sy:updatePeriod>

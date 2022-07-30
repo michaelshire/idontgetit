@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Not doing that	</title>
-	<atom:link href="http://idontgetit.ca/not-doing-that/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/not-doing-that/</link>
+	<atom:link href="/not-doing-that/feed/" rel="self" type="application/rss+xml" />
+	<link>/not-doing-that/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 21:27:01 +0000</lastBuildDate>
 	<sy:updatePeriod>

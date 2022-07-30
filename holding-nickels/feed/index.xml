@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Holding nickels	</title>
-	<atom:link href="http://idontgetit.ca/holding-nickels/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/holding-nickels/</link>
+	<atom:link href="/holding-nickels/feed/" rel="self" type="application/rss+xml" />
+	<link>/holding-nickels/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Wed, 13 Jul 2022 21:46:48 +0000</lastBuildDate>
 	<sy:updatePeriod>

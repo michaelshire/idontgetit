@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Not in the mood	</title>
-	<atom:link href="http://idontgetit.ca/not-in-the-mood/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/not-in-the-mood/</link>
+	<atom:link href="/not-in-the-mood/feed/" rel="self" type="application/rss+xml" />
+	<link>/not-in-the-mood/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 18:39:31 +0000</lastBuildDate>
 	<sy:updatePeriod>

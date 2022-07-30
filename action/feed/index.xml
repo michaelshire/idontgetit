@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Action	</title>
-	<atom:link href="http://idontgetit.ca/action/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/action/</link>
+	<atom:link href="/action/feed/" rel="self" type="application/rss+xml" />
+	<link>/action/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Mon, 18 Jul 2022 22:53:27 +0000</lastBuildDate>
 	<sy:updatePeriod>

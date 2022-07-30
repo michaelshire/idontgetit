@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Crusty	</title>
-	<atom:link href="http://idontgetit.ca/crusty/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/crusty/</link>
+	<atom:link href="/crusty/feed/" rel="self" type="application/rss+xml" />
+	<link>/crusty/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Wed, 13 Jul 2022 22:08:21 +0000</lastBuildDate>
 	<sy:updatePeriod>

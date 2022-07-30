@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Drama	</title>
-	<atom:link href="http://idontgetit.ca/drama/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/drama/</link>
+	<atom:link href="/drama/feed/" rel="self" type="application/rss+xml" />
+	<link>/drama/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Mon, 18 Jul 2022 22:47:00 +0000</lastBuildDate>
 	<sy:updatePeriod>

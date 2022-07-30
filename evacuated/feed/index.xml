@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Evacuated	</title>
-	<atom:link href="http://idontgetit.ca/evacuated/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/evacuated/</link>
+	<atom:link href="/evacuated/feed/" rel="self" type="application/rss+xml" />
+	<link>/evacuated/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Sun, 17 Apr 2022 17:26:24 +0000</lastBuildDate>
 	<sy:updatePeriod>

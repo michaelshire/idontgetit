@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: This is alpha	</title>
-	<atom:link href="http://idontgetit.ca/this-is-alpha/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/this-is-alpha/</link>
+	<atom:link href="/this-is-alpha/feed/" rel="self" type="application/rss+xml" />
+	<link>/this-is-alpha/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Wed, 13 Jul 2022 21:50:05 +0000</lastBuildDate>
 	<sy:updatePeriod>

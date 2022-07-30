@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Point mutant	</title>
-	<atom:link href="http://idontgetit.ca/point-mutant/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/point-mutant/</link>
+	<atom:link href="/point-mutant/feed/" rel="self" type="application/rss+xml" />
+	<link>/point-mutant/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Mon, 18 Jul 2022 23:50:01 +0000</lastBuildDate>
 	<sy:updatePeriod>

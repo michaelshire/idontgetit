@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Welcome to the complex	</title>
-	<atom:link href="http://idontgetit.ca/welcome-to-the-complex/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/welcome-to-the-complex/</link>
+	<atom:link href="/welcome-to-the-complex/feed/" rel="self" type="application/rss+xml" />
+	<link>/welcome-to-the-complex/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 18:14:52 +0000</lastBuildDate>
 	<sy:updatePeriod>

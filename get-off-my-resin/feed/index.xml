@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Get off my resin	</title>
-	<atom:link href="http://idontgetit.ca/get-off-my-resin/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/get-off-my-resin/</link>
+	<atom:link href="/get-off-my-resin/feed/" rel="self" type="application/rss+xml" />
+	<link>/get-off-my-resin/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Mon, 18 Jul 2022 23:31:39 +0000</lastBuildDate>
 	<sy:updatePeriod>

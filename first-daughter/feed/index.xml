@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: First daughter	</title>
-	<atom:link href="http://idontgetit.ca/first-daughter/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/first-daughter/</link>
+	<atom:link href="/first-daughter/feed/" rel="self" type="application/rss+xml" />
+	<link>/first-daughter/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Mon, 18 Jul 2022 23:17:17 +0000</lastBuildDate>
 	<sy:updatePeriod>

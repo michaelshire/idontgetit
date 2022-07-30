@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Don&#8217;t touch	</title>
-	<atom:link href="http://idontgetit.ca/dont-touch/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/dont-touch/</link>
+	<atom:link href="/dont-touch/feed/" rel="self" type="application/rss+xml" />
+	<link>/dont-touch/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Sun, 17 Apr 2022 17:16:54 +0000</lastBuildDate>
 	<sy:updatePeriod>

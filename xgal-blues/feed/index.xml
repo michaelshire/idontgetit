@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Xgal blues	</title>
-	<atom:link href="http://idontgetit.ca/xgal-blues/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/xgal-blues/</link>
+	<atom:link href="/xgal-blues/feed/" rel="self" type="application/rss+xml" />
+	<link>/xgal-blues/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 21:30:43 +0000</lastBuildDate>
 	<sy:updatePeriod>

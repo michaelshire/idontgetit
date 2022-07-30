@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Not again	</title>
-	<atom:link href="http://idontgetit.ca/not-again/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/not-again/</link>
+	<atom:link href="/not-again/feed/" rel="self" type="application/rss+xml" />
+	<link>/not-again/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Sun, 17 Apr 2022 17:23:26 +0000</lastBuildDate>
 	<sy:updatePeriod>

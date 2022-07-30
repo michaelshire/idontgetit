@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Warm weather	</title>
-	<atom:link href="http://idontgetit.ca/warm-weather/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/warm-weather/</link>
+	<atom:link href="/warm-weather/feed/" rel="self" type="application/rss+xml" />
+	<link>/warm-weather/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 21:27:36 +0000</lastBuildDate>
 	<sy:updatePeriod>

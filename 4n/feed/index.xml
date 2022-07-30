@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: 4N	</title>
-	<atom:link href="http://idontgetit.ca/4n/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/4n/</link>
+	<atom:link href="/4n/feed/" rel="self" type="application/rss+xml" />
+	<link>/4n/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 21:33:07 +0000</lastBuildDate>
 	<sy:updatePeriod>

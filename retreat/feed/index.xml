@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Retreat	</title>
-	<atom:link href="http://idontgetit.ca/retreat/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/retreat/</link>
+	<atom:link href="/retreat/feed/" rel="self" type="application/rss+xml" />
+	<link>/retreat/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Wed, 13 Jul 2022 22:20:34 +0000</lastBuildDate>
 	<sy:updatePeriod>

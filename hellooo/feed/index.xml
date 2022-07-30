@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Hellooo	</title>
-	<atom:link href="http://idontgetit.ca/hellooo/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/hellooo/</link>
+	<atom:link href="/hellooo/feed/" rel="self" type="application/rss+xml" />
+	<link>/hellooo/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Wed, 13 Jul 2022 22:44:22 +0000</lastBuildDate>
 	<sy:updatePeriod>

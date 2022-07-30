@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Quick spin	</title>
-	<atom:link href="http://idontgetit.ca/quick-spin/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/quick-spin/</link>
+	<atom:link href="/quick-spin/feed/" rel="self" type="application/rss+xml" />
+	<link>/quick-spin/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Sun, 17 Apr 2022 17:35:36 +0000</lastBuildDate>
 	<sy:updatePeriod>

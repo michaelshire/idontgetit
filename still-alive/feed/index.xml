@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Still alive	</title>
-	<atom:link href="http://idontgetit.ca/still-alive/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/still-alive/</link>
+	<atom:link href="/still-alive/feed/" rel="self" type="application/rss+xml" />
+	<link>/still-alive/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Sun, 17 Apr 2022 17:34:09 +0000</lastBuildDate>
 	<sy:updatePeriod>

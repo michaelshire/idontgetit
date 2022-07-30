@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Can&#8217;t be good	</title>
-	<atom:link href="http://idontgetit.ca/cant-be-good/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/cant-be-good/</link>
+	<atom:link href="/cant-be-good/feed/" rel="self" type="application/rss+xml" />
+	<link>/cant-be-good/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 21:32:31 +0000</lastBuildDate>
 	<sy:updatePeriod>

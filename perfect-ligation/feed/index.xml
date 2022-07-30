@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Perfect ligation	</title>
-	<atom:link href="http://idontgetit.ca/perfect-ligation/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/perfect-ligation/</link>
+	<atom:link href="/perfect-ligation/feed/" rel="self" type="application/rss+xml" />
+	<link>/perfect-ligation/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Sun, 17 Apr 2022 17:13:52 +0000</lastBuildDate>
 	<sy:updatePeriod>

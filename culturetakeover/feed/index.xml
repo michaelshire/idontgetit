@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: #CultureTakeover	</title>
-	<atom:link href="http://idontgetit.ca/culturetakeover/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/culturetakeover/</link>
+	<atom:link href="/culturetakeover/feed/" rel="self" type="application/rss+xml" />
+	<link>/culturetakeover/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 20:40:49 +0000</lastBuildDate>
 	<sy:updatePeriod>

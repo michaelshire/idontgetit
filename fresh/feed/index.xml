@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Fresh	</title>
-	<atom:link href="http://idontgetit.ca/fresh/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/fresh/</link>
+	<atom:link href="/fresh/feed/" rel="self" type="application/rss+xml" />
+	<link>/fresh/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 21:29:47 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: My lid	</title>
-	<atom:link href="http://idontgetit.ca/my-lid/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/my-lid/</link>
+	<atom:link href="/my-lid/feed/" rel="self" type="application/rss+xml" />
+	<link>/my-lid/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 21:32:14 +0000</lastBuildDate>
 	<sy:updatePeriod>

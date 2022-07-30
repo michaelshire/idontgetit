@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Stuck on you	</title>
-	<atom:link href="http://idontgetit.ca/stuck-on-you/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/stuck-on-you/</link>
+	<atom:link href="/stuck-on-you/feed/" rel="self" type="application/rss+xml" />
+	<link>/stuck-on-you/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Mon, 18 Jul 2022 23:12:53 +0000</lastBuildDate>
 	<sy:updatePeriod>

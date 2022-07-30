@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: All that fuss	</title>
-	<atom:link href="http://idontgetit.ca/all-that-fuss/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/all-that-fuss/</link>
+	<atom:link href="/all-that-fuss/feed/" rel="self" type="application/rss+xml" />
+	<link>/all-that-fuss/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Wed, 13 Jul 2022 22:55:44 +0000</lastBuildDate>
 	<sy:updatePeriod>

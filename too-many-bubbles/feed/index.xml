@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Too many bubbles	</title>
-	<atom:link href="http://idontgetit.ca/too-many-bubbles/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/too-many-bubbles/</link>
+	<atom:link href="/too-many-bubbles/feed/" rel="self" type="application/rss+xml" />
+	<link>/too-many-bubbles/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 18:16:09 +0000</lastBuildDate>
 	<sy:updatePeriod>

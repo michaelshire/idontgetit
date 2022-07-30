@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Get Kathy	</title>
-	<atom:link href="http://idontgetit.ca/get-kathy/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/get-kathy/</link>
+	<atom:link href="/get-kathy/feed/" rel="self" type="application/rss+xml" />
+	<link>/get-kathy/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Wed, 13 Jul 2022 21:31:13 +0000</lastBuildDate>
 	<sy:updatePeriod>

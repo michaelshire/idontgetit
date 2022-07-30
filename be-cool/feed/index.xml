@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Be cool	</title>
-	<atom:link href="http://idontgetit.ca/be-cool/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/be-cool/</link>
+	<atom:link href="/be-cool/feed/" rel="self" type="application/rss+xml" />
+	<link>/be-cool/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Wed, 13 Jul 2022 22:42:00 +0000</lastBuildDate>
 	<sy:updatePeriod>

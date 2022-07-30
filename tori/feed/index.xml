@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Tori	</title>
-	<atom:link href="http://idontgetit.ca/tori/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/tori/</link>
+	<atom:link href="/tori/feed/" rel="self" type="application/rss+xml" />
+	<link>/tori/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Wed, 13 Jul 2022 21:32:33 +0000</lastBuildDate>
 	<sy:updatePeriod>

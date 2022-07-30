@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Pseudomonass	</title>
-	<atom:link href="http://idontgetit.ca/pseudomonass/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/pseudomonass/</link>
+	<atom:link href="/pseudomonass/feed/" rel="self" type="application/rss+xml" />
+	<link>/pseudomonass/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 21:28:56 +0000</lastBuildDate>
 	<sy:updatePeriod>

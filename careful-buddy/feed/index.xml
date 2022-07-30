@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Careful buddy	</title>
-	<atom:link href="http://idontgetit.ca/careful-buddy/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/careful-buddy/</link>
+	<atom:link href="/careful-buddy/feed/" rel="self" type="application/rss+xml" />
+	<link>/careful-buddy/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Mon, 18 Jul 2022 23:23:44 +0000</lastBuildDate>
 	<sy:updatePeriod>

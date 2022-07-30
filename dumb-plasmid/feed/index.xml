@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Dumb plasmid	</title>
-	<atom:link href="http://idontgetit.ca/dumb-plasmid/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/dumb-plasmid/</link>
+	<atom:link href="/dumb-plasmid/feed/" rel="self" type="application/rss+xml" />
+	<link>/dumb-plasmid/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Sun, 17 Apr 2022 17:43:34 +0000</lastBuildDate>
 	<sy:updatePeriod>

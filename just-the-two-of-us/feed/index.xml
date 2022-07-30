@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Just the two of us	</title>
-	<atom:link href="http://idontgetit.ca/just-the-two-of-us/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/just-the-two-of-us/</link>
+	<atom:link href="/just-the-two-of-us/feed/" rel="self" type="application/rss+xml" />
+	<link>/just-the-two-of-us/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Mon, 18 Jul 2022 23:36:07 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Jingle cells	</title>
-	<atom:link href="http://idontgetit.ca/jingle-cells/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/jingle-cells/</link>
+	<atom:link href="/jingle-cells/feed/" rel="self" type="application/rss+xml" />
+	<link>/jingle-cells/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 18:00:52 +0000</lastBuildDate>
 	<sy:updatePeriod>

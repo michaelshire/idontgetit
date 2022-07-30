@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Not chocolate	</title>
-	<atom:link href="http://idontgetit.ca/not-chocolate/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/not-chocolate/</link>
+	<atom:link href="/not-chocolate/feed/" rel="self" type="application/rss+xml" />
+	<link>/not-chocolate/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 20:44:03 +0000</lastBuildDate>
 	<sy:updatePeriod>

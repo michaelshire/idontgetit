@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Get comfortable	</title>
-	<atom:link href="http://idontgetit.ca/get-comfortable/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/get-comfortable/</link>
+	<atom:link href="/get-comfortable/feed/" rel="self" type="application/rss+xml" />
+	<link>/get-comfortable/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Mon, 18 Jul 2022 23:40:26 +0000</lastBuildDate>
 	<sy:updatePeriod>

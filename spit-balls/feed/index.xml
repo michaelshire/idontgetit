@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Spit balls	</title>
-	<atom:link href="http://idontgetit.ca/spit-balls/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/spit-balls/</link>
+	<atom:link href="/spit-balls/feed/" rel="self" type="application/rss+xml" />
+	<link>/spit-balls/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Wed, 13 Jul 2022 22:19:44 +0000</lastBuildDate>
 	<sy:updatePeriod>

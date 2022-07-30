@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: I&#8217;m stripping	</title>
-	<atom:link href="http://idontgetit.ca/im-stripping/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/im-stripping/</link>
+	<atom:link href="/im-stripping/feed/" rel="self" type="application/rss+xml" />
+	<link>/im-stripping/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Mon, 18 Jul 2022 23:21:12 +0000</lastBuildDate>
 	<sy:updatePeriod>

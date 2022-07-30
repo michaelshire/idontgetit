@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Divisive behaviour	</title>
-	<atom:link href="http://idontgetit.ca/divisive-behaviour/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/divisive-behaviour/</link>
+	<atom:link href="/divisive-behaviour/feed/" rel="self" type="application/rss+xml" />
+	<link>/divisive-behaviour/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 18:04:44 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Kathy Shire &#8211; I Don&#039;t Get It</title>
-	<atom:link href="http://idontgetit.ca/author/kathy-shire/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/</link>
+	<atom:link href="/author/kathy-shire/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 29 Jul 2022 00:21:44 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,24 +21,24 @@
 	<generator>https://wordpress.org/?v=6.0.1</generator>
 
 <image>
-	<url>http://idontgetit.ca/wp-content/uploads/2022/04/cropped-cropped-cropped-StickyFloor-32x32.jpg</url>
+	<url>/wp-content/uploads/2022/04/cropped-cropped-cropped-StickyFloor-32x32.jpg</url>
 	<title>Kathy Shire &#8211; I Don&#039;t Get It</title>
-	<link>http://idontgetit.ca/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Ligation</title>
-		<link>http://idontgetit.ca/ligation/</link>
+		<link>/ligation/</link>
 		
 		<dc:creator><![CDATA[Kathy Shire]]></dc:creator>
 		<pubDate>Wed, 12 Jul 2017 20:17:40 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">http://idontgetit.ca/?p=17</guid>
+		<guid isPermaLink="false">/?p=17</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[<div class="wp-block-image is-style-default">
-<figure class="aligncenter size-full is-resized"><img src="http://idontgetit.ca/wp-content/uploads/2022/04/Ligation.jpg" alt="" class="wp-image-18" width="600" height="615" srcset="http://idontgetit.ca/wp-content/uploads/2022/04/Ligation.jpg 1200w, http://idontgetit.ca/wp-content/uploads/2022/04/Ligation-768x787.jpg 768w" sizes="(max-width: 600px) 100vw, 600px" /></figure></div>]]></content:encoded>
+<figure class="aligncenter size-full is-resized"><img src="/wp-content/uploads/2022/04/Ligation.jpg" alt="" class="wp-image-18" width="600" height="615" srcset="/wp-content/uploads/2022/04/Ligation.jpg 1200w, /wp-content/uploads/2022/04/Ligation-768x787.jpg 768w" sizes="(max-width: 600px) 100vw, 600px" /></figure></div>]]></content:encoded>
 					
 		
 		

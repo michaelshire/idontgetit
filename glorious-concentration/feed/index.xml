@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Glorious concentration	</title>
-	<atom:link href="http://idontgetit.ca/glorious-concentration/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/glorious-concentration/</link>
+	<atom:link href="/glorious-concentration/feed/" rel="self" type="application/rss+xml" />
+	<link>/glorious-concentration/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Mon, 18 Jul 2022 23:09:35 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Shaking	</title>
-	<atom:link href="http://idontgetit.ca/shaking/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/shaking/</link>
+	<atom:link href="/shaking/feed/" rel="self" type="application/rss+xml" />
+	<link>/shaking/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Sun, 17 Apr 2022 17:42:58 +0000</lastBuildDate>
 	<sy:updatePeriod>

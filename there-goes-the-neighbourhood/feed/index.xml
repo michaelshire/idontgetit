@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: There goes the neighbourhood	</title>
-	<atom:link href="http://idontgetit.ca/there-goes-the-neighbourhood/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/there-goes-the-neighbourhood/</link>
+	<atom:link href="/there-goes-the-neighbourhood/feed/" rel="self" type="application/rss+xml" />
+	<link>/there-goes-the-neighbourhood/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Fri, 22 Jul 2022 21:27:21 +0000</lastBuildDate>
 	<sy:updatePeriod>

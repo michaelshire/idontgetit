@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Poorly labelled	</title>
-	<atom:link href="http://idontgetit.ca/poorly-labelled/feed/" rel="self" type="application/rss+xml" />
-	<link>http://idontgetit.ca/poorly-labelled/</link>
+	<atom:link href="/poorly-labelled/feed/" rel="self" type="application/rss+xml" />
+	<link>/poorly-labelled/</link>
 	<description>A sciencey comic by Kathy Shire</description>
 	<lastBuildDate>Wed, 13 Jul 2022 22:48:02 +0000</lastBuildDate>
 	<sy:updatePeriod>
