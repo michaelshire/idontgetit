@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.0.1</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/04/cropped-cropped-cropped-StickyFloor-32x32.jpg</url>
+	<url>http://localhost/wp-content/uploads/2022/04/cropped-cropped-cropped-StickyFloor-32x32.jpg</url>
 	<title>Uncategorized &#8211; I Don&#039;t Get It</title>
 	<link>/</link>
 	<width>32</width>
@@ -34,11 +34,11 @@
 		<dc:creator><![CDATA[Kathy Shire]]></dc:creator>
 		<pubDate>Wed, 12 Jul 2017 20:17:40 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=17</guid>
+		<guid isPermaLink="false">http://localhost/?p=17</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[<div class="wp-block-image is-style-default">
-<figure class="aligncenter size-full is-resized"><img src="/wp-content/uploads/2022/04/Ligation.jpg" alt="" class="wp-image-18" width="600" height="615" srcset="/wp-content/uploads/2022/04/Ligation.jpg 1200w, /wp-content/uploads/2022/04/Ligation-768x787.jpg 768w" sizes="(max-width: 600px) 100vw, 600px" /></figure></div>]]></content:encoded>
+<figure class="aligncenter size-full is-resized"><img src="http://localhost/wp-content/uploads/2022/04/Ligation.jpg" alt="" class="wp-image-18" width="600" height="615" srcset="http://localhost/wp-content/uploads/2022/04/Ligation.jpg 1200w, http://localhost/wp-content/uploads/2022/04/Ligation-768x787.jpg 768w" sizes="(max-width: 600px) 100vw, 600px" /></figure></div>]]></content:encoded>
 					
 		
 		
